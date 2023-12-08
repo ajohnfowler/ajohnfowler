@@ -8,5 +8,7 @@ I’m a Dartmouth based software developer, Acadia graduate with a degree in Com
 I always strive for personal improvement; I continuously explore new and existing technologies to expand my computer science and electronics knowledge.
 </h4>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/adam_fowler"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adam_fowler" /></a></p><br><br>
+<span align="center">
+  <h3>Support:</h3>
+  <p><a href="https://ko-fi.com/adam_fowler"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adam_fowler" /></a></p><br><br>
+</span>
